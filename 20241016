@@ -1,0 +1,9 @@
+HW
+What is a database? A database is an organized collection of structured information, or data, typically stored electronically in a computer system.
+What is a row and column in a database table? A row is a single group of related data within a table.  Column is a list of values, usually belonging to a particular field, displayed vertically in a table.
+What is SQL and what is it used for? Its a programming language for storing and processing information in a relational database.
+What query is used to get data from a table in sql? The SELECT statement is used to select data from a database.
+What is a Primary key in a database? Is a column in a relational database table that's distinctive for each record.
+What are indexes used for in a database? An index offers an efficient way to quickly access the records from the database files stored on the disk drive.
+What is a database transaction? a unit of work, performed within a database management system (or similar system) against a database, that is treated in a coherent and reliable way independent of other transactions.
+Give an example where a database can be used in real life? for example a bank or grocery store, restaurant.
